@@ -1,0 +1,8 @@
+CACHE STATISTICS
+
+Total Accesses = 6
+Total Hits     = 2
+Total Misses   = 4
+
+Hit Rate  = 33.3%
+Miss Rate = 66.7%

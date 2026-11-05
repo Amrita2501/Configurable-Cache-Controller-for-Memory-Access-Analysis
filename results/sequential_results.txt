@@ -1,0 +1,8 @@
+WORKLOAD: Sequential
+
+Total Accesses = 6
+Total Hits     = 0
+Total Misses   = 6
+
+Hit Rate  = 0%
+Miss Rate = 100%

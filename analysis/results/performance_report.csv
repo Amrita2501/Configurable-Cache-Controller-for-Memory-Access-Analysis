@@ -1,0 +1,5 @@
+Workload,Hits,Misses,Accesses,Hit Rate (%),Miss Rate (%),Memory Stall Cycles,Execution Cycles,IPC,Classification
+Sequential,2,4,6,33.33333333333333,66.66666666666666,202,10202,0.9801999607920016,Memory Bottleneck
+Random,0,6,6,0.0,100.0,300,10300,0.970873786407767,Memory Bottleneck
+Conflict,0,6,6,0.0,100.0,300,10300,0.970873786407767,Memory Bottleneck
+2-Way Cache,4,2,6,66.66666666666666,33.33333333333333,104,10104,0.9897070467141726,Cache Efficient

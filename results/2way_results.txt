@@ -1,0 +1,14 @@
+2-WAY SET ASSOCIATIVE CACHE RESULTS
+
+Total Accesses = 6
+Total Hits     = 4
+Total Misses   = 2
+
+Hit Rate  = 66.67%
+Miss Rate = 33.33%
+
+Observation:
+Two frequently reused addresses were retained
+simultaneously in the cache, reducing conflict misses
+and improving hit rate compared to the direct-mapped cache.
+

@@ -1,0 +1,10 @@
+*.vcd
+*_sim
+cache_sim
+seq_sim
+rand_sim
+conflict_sim
+twoway_sim
+
+*.log
+*.tmp
