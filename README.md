@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Configurable Cache Controller for Memory Access Analysis
 
 ## Overview
@@ -154,3 +155,7 @@ screenshots/waveform_2way_cache.png
 * DRAM latency model
 * Refresh-aware memory behavior
 * Multi-core cache coherence analysis
+=======
+# Configurable-Cache-Controller-for-Memory-Access-Analysis
+Designed and implemented configurable Direct-Mapped and 2-Way Set-Associative cache architectures using Verilog RTL. Evaluated cache performance by analyzing hit/miss rates, conflict misses, memory latency, IPC, and workload bottlenecks through simulation, GTKWave waveform analysis, and Python-based performance evaluation.
+>>>>>>> 480dfab0418ff5be9138676c98bf1d2bd832c503
